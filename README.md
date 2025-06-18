@@ -1,5 +1,5 @@
 # Design-and-Development-of-Low-Cost-Portable-Universal-Testing-machine
-This repository guides you on how to build a Low - Cost Portable Universal Testing Machine
+This repository guides you on how to build a Low-Cost Portable Universal Testing Machine
 
 
 Please go through the Bill Of Materials for the list of components.
